@@ -15,7 +15,7 @@ $ git clone https://github.com/tteeoo/neotype
 $ cd neotype
 $ install -d share ~/.local/share/neotype
 $ go build
-# cp neotype /usr/local/bin
+# cp neotype /usr/local/bin/
 ```
 
 Note: The above commands will compile NeoType, but a pre-compiled binary (Linux x86-64) is also provided on the latest GitHub release.
